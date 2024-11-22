@@ -1,0 +1,11 @@
+Conectarte a MySQL:
+
+- mysql -u root -p
+
+- CREATE DATABASE nombre_de_la_base_de_datos;
+
+- SHOW DATABASES;
+
+- USE nombre_de_la_base_de_datos;
+
+- CREATE TABLE nombre_de_la_tabla (...);
