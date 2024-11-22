@@ -2,7 +2,7 @@
 Consultas
 
 - Medio de actualizacion ( manual o  excel)
-
+- Se puede cambiar la modulacion del excel preInputDB
 
 
 
