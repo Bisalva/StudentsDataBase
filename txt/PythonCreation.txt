@@ -1,0 +1,16 @@
+import mysql.connector
+
+conexion = mysql.connector.connect(
+    host="localhost",
+    user="tu_usuario",
+    password="tu_contraseña",
+    database="tu_base_de_datos"
+)
+cursor = conexion.cursor()
+
+# Obtener la estructura de la tabla
+cursor.execute("SHOW CREATE TABLE tu_tabla")
+for tabla in cursor.fetchall():
+    print(tabla[1])  # Aquí tienes el código SQL de la tabla
+
+conexion.close()
