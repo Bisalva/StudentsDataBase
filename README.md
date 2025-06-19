@@ -1,6 +1,6 @@
-# BaseDatos---DSIA
+# BaseDatos
 
-Base de datos de la asignatura DSIA 
+Base de datos de la asignatura Desarrollo de Sistenas Informaticos Administrativos ( DSIA ) 
 
 - Profesor : Patricia Maldonado , UMAG 2024
 - Cliente : Pedro Alberti , UMAG 2024
